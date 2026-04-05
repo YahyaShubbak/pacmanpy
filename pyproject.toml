@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pacman-prog-bar"
+version = "0.1.0"
+description = "Pac-Man style console progress bars (Arch/EndeavourOS pacman style)"
+requires-python = ">=3.8"
+
+[tool.setuptools]
+py-modules = ["pacman_prog_bar"]

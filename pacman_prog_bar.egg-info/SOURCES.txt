@@ -1,0 +1,6 @@
+pacman_prog_bar.py
+pyproject.toml
+pacman_prog_bar.egg-info/PKG-INFO
+pacman_prog_bar.egg-info/SOURCES.txt
+pacman_prog_bar.egg-info/dependency_links.txt
+pacman_prog_bar.egg-info/top_level.txt

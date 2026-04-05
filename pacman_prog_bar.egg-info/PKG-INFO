@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: pacman-prog-bar
+Version: 0.1.0
+Summary: Pac-Man style console progress bars (Arch/EndeavourOS pacman style)
+Requires-Python: >=3.8
